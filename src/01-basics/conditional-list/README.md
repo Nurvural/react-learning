@@ -1,7 +1,5 @@
 # Conditional Rendering, List Rendering ve Component Composition
 
----
-
 ## Conditional Rendering Nedir?
 
 - React componentleri farklı koşullara göre **farklı UI** render edebilir.  
