@@ -1,7 +1,5 @@
 # Conditional Rendering, List Rendering ve Component Composition
 
----
-
 ## Conditional Rendering Nedir?
 
 - React componentleri farklı koşullara göre **farklı UI** render edebilir.  
@@ -16,8 +14,6 @@ const isLoggedIn = true;
 
 - Eğer `isLoggedIn` true ise “Hoşgeldiniz!” gösterilir.  
 - False ise “Lütfen giriş yapın.” gösterilir.  
-
----
 
 ## List Rendering Nedir?
 
@@ -34,8 +30,6 @@ const users = ["Nurvural", "React Dev"];
   ))}
 </ul>
 ```
-
----
 
 ## Component Composition Nedir?
 
@@ -59,9 +53,6 @@ const UserList = () => {
   );
 };
 ```
-
----
-
 ## Notlar
 
 - Conditional Rendering → Ekranda duruma göre farklı içerik gösterme  
